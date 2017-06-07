@@ -30,7 +30,33 @@ php artisan serve
 Laravel development server started: <http://127.0.0.1:8000>
 ```
 
+<p align="justify">
 Basta copiar la URL (en mi caso: <i>http://127.0.0.1:8000</i>), pegarla en el navegador y dejar esa terminal abierta para que se siga ejecutando nuestro servidor virtual.
+</p>
+
+<p align="justify">
+Dentro de cualquiera de los dos archivos seamos una nueva ruta:
+</p>
+
+```
+Route::VERBO('ruta', closure)
+```
+
+Verbo puede ser cualquier <b>verbo<b> HTTP:
+
+```
+GET
+POST
+PUT
+PATCH
+DELETE
+```
+
+closure 
+
+```
+función anónima
+```
 
 ### Tópico 1 - Rutas
 
@@ -50,6 +76,8 @@ en el archivo:
 Son básicamente lo mismo, están separados como una buena práctica.<br>
 Las rutas que sean parte de un API se registren en api.php <br>
 Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en web.php
+
+
 
 ## Fuente
 
