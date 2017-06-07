@@ -47,7 +47,7 @@ en el archivo:
 * *web.php*
 * *api.php*
 
-Son básicamente lo mismo, están separados como una buena práctica.
+Son básicamente lo mismo, están separados como una buena práctica.<br>
 Las rutas que sean parte de un API se registren en api.php
 Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en web.php
 
