@@ -111,7 +111,7 @@ Route::get('/hola/{nombre}', function($nombre) {
 ```
 
 <p align="center">
-  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img2.png" width="220" height="80" />
+  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img2.png" width="240" height="80" />
 </p>
 
 
