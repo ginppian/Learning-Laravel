@@ -93,7 +93,7 @@ Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en w
 
 
 <p align="center">
-  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img1.png" width="240" height="80" />
+  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img1.png" width="230" height="80" />
 </p>
 
 ## Fuente
