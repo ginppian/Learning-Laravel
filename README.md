@@ -40,12 +40,12 @@ Basta copiar la URL (en mi caso: <i>http://127.0.0.1:8000</i>), pegarla en el na
 
 Las **rutas** se encuentran en la carpeta:
 
-	* routes
+* routes
 
 en el archivo:
 
-	* web.php
-	* api.php
+* web.php
+* api.php
 
 ## Fuente
 
