@@ -91,12 +91,18 @@ Son básicamente lo mismo, están separados como una buena práctica.<br>
 Las rutas que sean parte de un API se registren en api.php <br>
 Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en web.php
 
+<b>Ruta Estática</b>
+
+```
+Route::get('/hola/{nombre}', function($nombre) {
+	return "Hola {$nombre}";
+});
+```
 
 <p align="center">
   <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img1.png" width="220" height="80" />
 </p>
 
-Ésta es conocida como <b>ruta estática</b>.
 
 <b>Ruta dinámica</b>
 
