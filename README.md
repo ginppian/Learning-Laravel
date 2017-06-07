@@ -58,6 +58,20 @@ closure
 función anónima
 ```
 
+Ejemplo:
+
+```
+Route::get('/hola', function () {
+  return 'que pasion raza';
+});
+```
+
+Accedemos:
+
+```
+http://127.0.0.1:8000/hola
+```
+
 ### Tópico 1 - Rutas
 
 <p align="justify">
