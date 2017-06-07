@@ -21,7 +21,7 @@ $ php artisan serve
 Laravel development server started: <http://127.0.0.1:8000>
 ```
 
-Basta copiar la URL y pegarla en el navegador y dejar esa terminal abierta para que se siga ejecutando nuestro servidor virtual.
+Basta copiar la URL (en mi caso: <i>http://127.0.0.1:8000</i>) y pegarla en el navegador y dejar esa terminal abierta para que se siga ejecutando nuestro servidor virtual.
 
 ### Tópico 1 - Rutas
 
