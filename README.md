@@ -4,5 +4,18 @@ Learning Laravel
 ## Descripción:
 
 <p align="justify">
-	En este repositorio trataremos de documentar lo aprendido en el curso <b>Laravel 5.4 - Clon de Reddit</b> accesible desde el siguiente link: https://www.youtube.com/watch?v=XrrbV5YO2PY
+	En este repositorio trataremos de documentar lo aprendido en el curso <b>Laravel 5.4 - Clon de Reddit</b> impartido por @gpopoteur.
 </p>
+
+## Especificaciones Técnicas:
+
+En mi caso estoy usando:
+
+* macOS Sierra 10.12.5
+* ATOM 1.17.2
+* Composer version 1.4.2
+* Laravel Installer 1.3.5
+
+## Fuente
+
+(Curso)[https://www.youtube.com/watch?v=XrrbV5YO2PY]
