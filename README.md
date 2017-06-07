@@ -75,7 +75,7 @@ http://127.0.0.1:8000/hola
 ### Tópico 1 - Rutas
 
 <p align="justify">
-	<b>Def:</b> Rutas son un conjunto de URLs conectadas a porciones de código, el cual se ejecuta al ser llamadas estas URLs.
+	Def: Rutas son un conjunto de URLs conectadas a porciones de código, el cual se ejecuta al ser llamadas estas URLs.
 </p>
 
 Las **rutas** se encuentran en la carpeta:
