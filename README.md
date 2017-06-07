@@ -130,7 +130,6 @@ Si usamos <i>closures</i> nuestro archivo se volverá demasiado grande, es una b
 </p>
 
 <p align="center">
-Se encuentran en:
 App/-><br>
 		HTTP/-><br>
 				Controllers/<br>
