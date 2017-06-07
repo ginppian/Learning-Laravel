@@ -109,6 +109,8 @@ Route::get('/hola/{nombre}', function($nombre) {
 	return "Hola {$nombre}";
 });
 ```
+
+Nota: Usamos comilla doble en vez de comilla simple.
 ## Fuente
 
 * [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
