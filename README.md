@@ -47,6 +47,10 @@ en el archivo:
 * *web.php*
 * *api.php*
 
+Son básicamente lo mismo, están separados como una buena práctica.
+Las rutas que sean parte de un API se registren en api.php
+Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en web.php
+
 ## Fuente
 
 * [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
