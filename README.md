@@ -42,7 +42,7 @@ Dentro de cualquiera de los dos archivos seamos una nueva ruta:
 Route::VERBO('ruta', closure)
 ```
 
-Verbo puede ser cualquier <b>verbo<b> HTTP:
+Verbo puede ser cualquier <b>verbo</b> HTTP:
 
 ```
 GET
@@ -75,7 +75,7 @@ http://127.0.0.1:8000/hola
 ### Tópico 1 - Rutas
 
 <p align="justify">
-	Def: Rutas son un conjunto de URLs conectadas a porciones de código, el cual se ejecuta al ser llamadas estas URLs.
+	<b>Def:</b> Rutas son un conjunto de URLs conectadas a porciones de código, el cual se ejecuta al ser llamadas estas URLs.
 </p>
 
 Las **rutas** se encuentran en la carpeta:
