@@ -18,4 +18,4 @@ En mi caso estoy usando:
 
 ## Fuente
 
-(Curso)[https://www.youtube.com/watch?v=XrrbV5YO2PY]
+* [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
