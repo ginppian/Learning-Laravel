@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/hola/{nombre}', function($nombre) {
+	return "Hola {$nombre}";
+});
+
 Route::get('/hola', function () {
-  return 'que pasion raza';
+  return "que pasion raza";
 });

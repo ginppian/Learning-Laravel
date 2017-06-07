@@ -62,7 +62,7 @@ Ejemplo:
 
 ```
 Route::get('/hola', function () {
-  return 'que pasion raza';
+  return "que pasion raza";
 });
 ```
 
@@ -96,6 +96,19 @@ Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en w
   <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img1.png" width="220" height="80" />
 </p>
 
+Ésta es conocida como <b>ruta estática</b>.
+
+<b>Ruta dinámica</b>
+
+Se usan <i>llaves</i> para agregar una parte dinámica a la ruta.
+
+El closure tomará la variable de las llaves y la pasará como parametro.
+
+```
+Route::get('/hola/{nombre}', function($nombre) {
+	return "Hola {$nombre}";
+});
+```
 ## Fuente
 
 * [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
