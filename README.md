@@ -110,7 +110,13 @@ Route::get('/hola/{nombre}', function($nombre) {
 });
 ```
 
+<p align="center">
+  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img2.png" width="220" height="80" />
+</p>
+
+
 Nota: Usamos comilla doble en vez de comilla simple.
+
 ## Fuente
 
 * [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
