@@ -10,7 +10,7 @@ Learning Laravel
 ### Tópico 1 - Rutas
 
 <p align="justify">
-	Rutas: Es un conjunto de URLs conectadas a porciones de código. A las cuales nuestra aplicación responde.
+	<b>Rutas:</b> Es un conjunto de URLs conectadas a porciones de código, el cual se ejecuta al ser llamadas estas URLs.
 </p>
 
 
