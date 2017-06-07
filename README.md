@@ -123,6 +123,20 @@ Route::get('/hola/{nombre}', function($nombre) {
 
 Nota: Usamos comilla doble en vez de comilla simple.
 
+<b>Controladores</b>
+
+<p align="center">
+Si usamos <i>closures</i> nuestro archivo se volverá demasiado grande, es una buena práctica que en nuestros archivos de rutas sólo conecten con el código que se ejecutará para esto usamos un modelo.
+</p>
+
+Ubicación:
+
+App->HTTP->Controllers
+
+<p align="center">
+	<b>Def:</b> Clases destinadas a responder a peticiones que se hacen a una ruta.
+</p>
+
 ## Fuente
 
 * [Curso](https://www.youtube.com/watch?v=XrrbV5YO2PY)
