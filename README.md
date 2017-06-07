@@ -92,6 +92,9 @@ Las rutas que sean parte de un API se registren en api.php <br>
 Las rutas que respondan a diferentes secciones de la aplicación se ubiquen en web.php
 
 
+<p align="center">
+  <img src="https://github.com/ginppian/Learning-Laravel/blob/master/images/img1.pngc" width="280" height="140" />
+</p>
 
 ## Fuente
 
