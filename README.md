@@ -35,7 +35,7 @@ Basta copiar la URL (en mi caso: <i>http://127.0.0.1:8000</i>), pegarla en el na
 </p>
 
 <p align="justify">
-Dentro de cualquiera de los dos archivos seamos una nueva ruta:
+Dentro de cualquiera de los dos archivos creamos una nueva ruta:
 </p>
 
 ```
